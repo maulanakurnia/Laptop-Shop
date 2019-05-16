@@ -2,5 +2,5 @@
 Author : Maulana Kurnia
 
 login admin
-<a>Username : root</a> <hr>
+<a>Username : root</a> <br>
 <a>Password : admin</a>
